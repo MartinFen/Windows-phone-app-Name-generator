@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MF-DESKTOP</Machine>
+    <WindowsUser>Martin</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d707c68e-aac6-40a3-bccb-68976d9a280f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F141466EC3A6E47FA9D0CD2BE8DFE9828E378AF56C81DA4A726400CFDE6DC3A2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d707c68e-aac6-40a3-bccb-68976d9a280f_1.0.0.0_neutral__n6fhnfby9ccnm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d707c68e-aac6-40a3-bccb-68976d9a280f_n6fhnfby9ccnm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d707c68e-aac6-40a3-bccb-68976d9a280f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Martin</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-14T22:14:26.872</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\bin\Debug\Villian.Windows.exe">
+      <PackagePath>Villian.Windows.exe</PackagePath>
+      <Modified>2014-12-14T22:14:26.575</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-14T21:37:44.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-14T21:33:29.044</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-14T21:35:45.408</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-14T21:38:48.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-14T21:32:17.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-14T21:36:55.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-12-12T11:54:37.941</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-12-12T12:09:48.523</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\bin\Debug\Villian.Windows.xr.xml">
+      <PackagePath>Villian.Windows.xr.xml</PackagePath>
+      <Modified>2014-12-12T12:09:48.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-14T22:14:26.762</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-en-us"
+"ResourceDimensions"		"language-en-US"
+
+[Files]
+"C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.WindowsPhone\obj\Release\split.pri"			"resources.pri"
+"C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.WindowsPhone\obj\Release\PackageLayout\Villian.WindowsPhone.xr.xml"			"Villian.WindowsPhone.xr.xml"
+"C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.WindowsPhone\obj\Release\PackageLayout\Villian.WindowsPhone.exe"			"Villian.WindowsPhone.exe"
+"C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.WindowsPhone\obj\Release\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.WindowsPhone\obj\Release\PackageLayout\App.xbf"			"App.xbf"
+"C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.WindowsPhone\obj\Release\PackageLayout\Assets\WideLogo.scale-240.png"			"Assets\WideLogo.scale-240.png"
+"C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.WindowsPhone\obj\Release\PackageLayout\Assets\StoreLogo.scale-240.png"			"Assets\StoreLogo.scale-240.png"
+"C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.WindowsPhone\obj\Release\PackageLayout\Assets\Square71x71Logo.scale-240.png"			"Assets\Square71x71Logo.scale-240.png"
+"C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.WindowsPhone\obj\Release\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
+"C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.WindowsPhone\obj\Release\PackageLayout\Assets\SmallLogo.scale-240.png"			"Assets\SmallLogo.scale-240.png"
+"C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.WindowsPhone\obj\Release\PackageLayout\Assets\Logo.scale-240.png"			"Assets\Logo.scale-240.png"

@@ -1,0 +1,3 @@
+MainPackage=C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\bin\Release\Villian.Windows_1.1.0.0_Bundle\Villian.Windows_1.1.0.0_AnyCPU.appx
+SymbolPackage=C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\AppPackages\Villian.Windows_1.1.0.0_Test\Villian.Windows_1.1.0.0_AnyCPU.appxsym
+ResourcePack=C:\Users\Martin\Documents\Visual Studio 2013\Projects\Villian\Villian\Villian.Windows\bin\Release\Villian.Windows_1.1.0.0_Bundle\Villian.Windows_1.1.0.0_scale-180.appx
